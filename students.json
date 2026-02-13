@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "698f36f988a3b66da7748e99",
+    "name": "Deekshitha R",
+    "usn": "1ST22CS052",
+    "email": "deekshitharangaswamy16@gmail.com",
+    "department": "CSE",
+    "marks": 65,
+    "__v": 0
+  },
+  {
+    "_id": "698f391d88a3b66da7748e9d",
+    "name": "John",
+    "usn": "1ST22CS032",
+    "email": "john@gmail.com",
+    "department": "CSE",
+    "marks": 65,
+    "__v": 0
+  },
+  {
+    "_id": "698f3971fa1a4cb09b440922",
+    "name": "mannoj",
+    "usn": "1ST22CS050",
+    "email": "manoj@gmail.com",
+    "department": "ISE",
+    "marks": 89,
+    "__v": 0
+  },
+  {
+    "_id": "698f3c0db62233ac7ffd7162",
+    "name": "kiran",
+    "usn": "1ST22CS056",
+    "email": "kiran@gmail.com",
+    "department": "EC",
+    "marks": 99,
+    "__v": 0
+  },
+  {
+    "_id": "698f3e9c766d2204b1eb8904",
+    "name": "yulu",
+    "usn": "1ST22CS040",
+    "email": "yulu@gmail.com",
+    "department": "CY",
+    "marks": 66,
+    "__v": 0
+  },
+  {
+    "_id": "698f43223e99e0ee6ab0229b",
+    "name": "manya",
+    "usn": "1ST22CS037",
+    "email": "manya@gmail.com",
+    "department": "EEE",
+    "marks": 57,
+    "__v": 0
+  }
+]

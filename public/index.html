@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Portal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🎓 Student Portal</h1>
+
+    <div class="card">
+        <h2>Add / Edit Student</h2>
+
+        <form id="form" class="form-grid">
+            <input id="name" placeholder="Name" required>
+            <input id="usn" placeholder="USN" required>
+            <input id="email" placeholder="Email" required>
+            <input id="dept" placeholder="Department" required>
+            <input id="marks" type="number" placeholder="Marks" required>
+
+            <button id="submitBtn">Add Student</button>
+        </form>
+    </div>
+
+    <div class="card">
+        <input id="search" placeholder="🔍 Search student..." />
+
+        <button onclick="exportExcel()">📥 Export Excel</button>
+
+        <h2>Students List</h2>
+        <table id="table"></table>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
